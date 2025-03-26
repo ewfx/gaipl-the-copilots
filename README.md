@@ -14,14 +14,18 @@
 ---
 
 ## 🎯 Introduction
-A brief overview of your project and its purpose. Mention which problem statement are your attempting to solve. Keep it concise and engaging.
+Platform support requires troubleshooting, accessing variety of KB (Knowledge base) articles, running ansible automation scripts, reviewing telemetry /observability metrics as well as leveraging foundational information about the Cls (Configuration items) including their relationships, dependencies, health etc. 
+
+.
 
 ## 🎥 Demo
 🔗 [Live Demo](#) (if applicable)  
 📹 [Video Demo](#) (if applicable)  
 🖼️ Screenshots:
 
-![Screenshot 1](link-to-image)
+![image](https://github.com/user-attachments/assets/3685679e-99cf-4520-bcef-5280b82781d6)
+![image](https://github.com/user-attachments/assets/3f46e220-e71d-406e-91de-ec935bb03c64)
+
 
 ## 💡 Inspiration
 What inspired you to create this project? Describe the problem you're solving.
